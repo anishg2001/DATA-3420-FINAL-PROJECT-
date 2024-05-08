@@ -98,7 +98,7 @@ Feature Engineering
 
 #### Performance Evaluation
 
-- After running multiple models, the two best models were Random Forest and XGclassifier both of them had an accuracy of 83%.
+- After running multiple models, the two best models were XGclassifier both of them had an accuracy of 83%.
 
 ## Citations
 
